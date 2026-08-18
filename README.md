@@ -11,4 +11,4 @@ languages I know are C#, Python, HTML, CSS
 ![HTML](https://img.shields.io/badge/HTML-E34C26?style=flat&logo=html5&logoColor=black)
 
 ![nice](https://desidentity.neocities.org/images/banner/enhancedhtml.gif)
-![cool](https://gloomy-poison.neocities.org/web_graphics/stamp1.png)
+
