@@ -5,7 +5,7 @@ I enjoy cryptology, cybersecurity, calculus etc. and I mostly do frontend. I wan
 
 languages I know are C#, Python, HTML, CSS
 <!-- Language badge -->
-![CSS](https://img.shields.io/badge/C++-F7DF1E?style=flat&logo=C++&logoColor=black)
+![CSS](https://img.shields.io/badge/CSS-F7DF1E?style=flat&logo=C++&logoColor=black)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=red)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=black)
 ![HTML](https://img.shields.io/badge/HTML-E34C26?style=flat&logo=html5&logoColor=black)
